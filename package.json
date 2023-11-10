@@ -1,0 +1,11 @@
+{
+  "name": "filenos",
+  "version": "1.0.0",
+  "description": "^c",
+  "main": "'npm install <Filenos>'",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
